@@ -4,6 +4,7 @@ python -m venv venv                     (cria o ambiente virtual)
 . venv/bin/activate                     (ativa o ambiente virtual)
 pip install django                      (instala o Django)
 django-admin startproject project .     (cria o projeto)
+python manage.py startapp contact       (cria o app contact)
 
 Configur o GIT
 
